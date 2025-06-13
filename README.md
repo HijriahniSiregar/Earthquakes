@@ -52,7 +52,7 @@ The dataset was sourced from Kaggle:
 
 Hi! I’m **Hijriahni Siregar**, a passionate learner on the path to becoming a skilled data analyst.  
 I love sharing my learning journey on Instagram:  
-📸 [@almeera_codes](https://www.instagram.com/almeera_codes and https://www.instagram.com/codewithalmeera)
+📸 [@almeera.ipynb](https://www.instagram.com/almeera.ipynb and https://www.instagram.com/codewithalmeera)
 
 ---
 
